@@ -1,0 +1,5 @@
+app/sql/
+app/public/wp-admin
+app/public/wp-includes
+conf/
+logs/
