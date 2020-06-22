@@ -1,5 +1,7 @@
+node_modules/
 app/sql/
 app/public/wp-admin
 app/public/wp-includes
+app/public/wp-content/themes/fictional-university/node_modules
 conf/
 logs/
